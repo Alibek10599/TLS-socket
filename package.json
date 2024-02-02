@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "iso_8583": "^2.6.7"
+    "socketQueue": "git+https://github.com/Alibek10599/iso-8583-socket-queue.git"
   }
 }
